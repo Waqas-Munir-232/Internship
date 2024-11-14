@@ -15,3 +15,7 @@
 ## Day # 4
 
 [Tip Calculator](https://merry-platypus-d5a729.netlify.app/)
+
+## Day # 5 & 6
+
+[JS Practical Project](https://unique-malasada-8d7137.netlify.app/)
